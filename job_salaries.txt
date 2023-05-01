@@ -1,0 +1,201 @@
+Dentist: $142,750
+Nurse: $65,790
+Pharmacist: $113,410
+Computer Systems Analyst: $78,670
+Physician: $183,270
+Database Administrator: $75,390
+Software Developer: $89,530
+Physical Therapist: $77,930
+Web Developer: $77,390
+Dental Hygienist: $69,480
+Occupational Therapist: $74,820
+Veterinarian: $82,940
+Computer Programmer: $72,230
+School Psychologist: $67,830
+Physical Therapist Assistant: $51,340
+Interpreter & Translator: $44,260
+Mechanical Engineer: $79,220
+Veterinary Technologist & Technician: $30,140
+Epidemiologist: $64,320
+IT Manager: $118,310
+Market Research Analyst: $60,350
+Diagnostic Medical Sonographer: $65,410
+Computer Systems Administrator: $70,970
+Respiratory Therapist: $55,350
+Medical Secretary: $31,460
+Civil Engineer: $77,940
+Substance Abuse Counselor: $38,540
+Speech-Language Pathologist: $69,150
+Landscaper & Groundskeeper: $23,510
+Radiologic Technologist : $55,520
+Cost Estimator: $58,440
+Financial Advisor: $66,480
+Marriage & Family Therapist: $46,440
+Medical Assistant: $29,300
+Lawyer: $113,330
+Accountant: $62,450
+Compliance Officer: $60,440
+High School Teacher: $54,370
+Clinical Laboratory Technician: $36,940
+Maintenance & Repair Worker: $35,330
+Bookkeeping, Accounting, & Audit Clerk: $34,730
+Financial Manager: $107,660
+Recreation & Fitness Worker: $31,330
+Insurance Agent: $47,450
+Elementary School Teacher: $52,810
+Dental Assistant: $34,140
+Management Analyst: $78,440
+Home Health Aide: $20,310
+Pharmacy Technician: $29,940
+Construction Manager: $84,440
+Public Relations Specialist: $54,130
+Middle School Teacher: $53,140
+Massage Therapist: $35,840
+Paramedic: $30,740
+Preschool Teacher: $26,640
+Hairdresser: $22,540
+Marketing Manager: $116,510
+Patrol Officer: $54,330
+School Counselor: $54,630
+Executive Assistant: $45,680
+Financial Analyst: $75,630
+Personal Care Aide: $19,750
+Clinical Social Worker: $48,620
+Business Operations Manager: $95,250
+Loan Officer: $58,530
+Meeting, Convention & Event Planner: $46,520
+Mental Health Counselor: $39,170
+Nursing Aide: $24,170
+Sales Representative: $53,740
+Architect: $73,440
+Sales Manager: $101,650
+HR Specialist: $54,410
+Plumber: $47,450
+Real Estate Agent: $39,470
+Glazier: $37,450
+Art Director: $81,360
+Customer Service Representative: $30,630
+Logistician: $71,930
+Auto Mechanic: $36,180
+Bus Driver: $35,720
+Restaurant Cook: $22,080
+Child & Family Social Worker: $40,680
+Administrative Assistant: $31,870
+Receptionist: $25,340
+Paralegal: $46,730
+Cement Mason & Concrete Finisher: $35,500
+Painter: $35,630
+Sports Coach: $28,570
+Teacher Assistant: $23,680
+Brickmason & Blockmason: $46,840
+Cashier: $18,830
+Janitor: $22,470
+Electrician: $49,330
+Delivery Truck Driver: $29,280
+Maid & Housekeeper: $19,290
+Carpenter: $40,210
+Security Guard: $23,930
+Construction Worker: $29,450
+Fabricator: $35,570
+Telemarketer: $23,570
+Actuary: $73,546
+Biomedical-Engineer: $ 65,478
+Aerospace Engineer: $65,469
+Agricultural Engineer: $59,765
+Anthropologist: $55,463
+Baker: $32,549
+Lab technician: $50,218
+Chemical Engineer: $70,693
+Biologist: $56,180
+Biochemist: $65,497
+Executive: $69,917
+Clinical Researcher: $54,488
+Military Officer: $51,511
+Military Inspector: $59,493
+Military Administrator: $62,657
+Crane Operator: $47,428
+Military Cook: $45,459
+Auditor: $56,718
+Security Manager: $54,586
+Medical Administrator: $149,488
+Court Clerk: $49,723
+Nutritionist: $45,786
+Economist: $72,520
+Security Consultant: $59,768
+Editor: $72,471
+Reporter: $65,969
+Fashion Designer: $62,479
+Quantity Surveyor: $70,780
+Fire Fighter: $46,650
+Warden: $43,210
+Prison administrator: $75,443
+Food Scientist: $59,787
+Game Designer: $72,760
+Data Analyst: $75,890
+Computer Security Analyst: $82,800
+Finance Executive: $88,777
+Lecturer: $65,749
+Industrial Engineer: $66,600
+Safety Administrator: $62,317
+Interior Designer: $55,901
+Film Director: $75,432
+Judge: $75,850
+Law Clerk: $45,128
+Inteligence Analyst: $68,904
+Jeweler: $55,786
+Mechanical Engineer: $75,500
+Postal Officer: $32,460
+Mail Clerk: $35,879
+Police Director: $81,140
+Training Officer: $55,990
+Manufacturing Engineer: $76,850
+Butcher: $31,555
+Health Inspector: $77,932
+Health Officer: $74,727
+Health Administrator: $71,930
+Medical Secretaries: $34,170
+Microbiologist: $36,570
+Midwife: $35,570
+Weapons Specialist: $59,573
+Municipal Clerk: $39,170
+Music Director: $61,234
+Music Therapist: $36,410
+Psychiatrist: $67,800
+Nuclear Engineer: $72,134
+Nanotechnology Engineer: $71,297
+Museum Technician: $35,570
+Neurologist: $75,555
+Diagnostician: $80,943
+Gynecologist: $72,455
+Peadetrician: $69,585
+Pilot: $81,343
+Power Plant Operator: $60,958
+Political Analyst: $69,684
+Private Detective: $55,878
+Quality Control Analyst: $59,073
+Radiology Technician: $60,800
+Pathologist: $72,343
+Funeral Manager: $65,777
+Licence Officer: $42,175
+State representative: $69,075
+Sculptor: $60,545
+Art Restorer: $60,980
+Artifact Curator: $55,463
+Tailor: $41,276
+Shoe Maker: $39,170
+Traffic Control Officer: $39,170
+Meteorology Engineer: $64,886
+Meteorology Administrator: $66,896
+Spa Manager: $35,670
+Surgeon: $90,765
+Chauffeur: $39,170
+Bank Teller: $46,672
+Watch Repairer: $32,170
+Writer: $46,145
+Waiter: $25,102
+Roofer: $39,603
+Supply Chain Manager: $75,995
+Property Manager: $69,897
+Risk Assessment Manager: $67,545
+Soil Analyst: $65,897
+Catering Specialist: $66,474
